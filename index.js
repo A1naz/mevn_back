@@ -7,7 +7,7 @@ const cors = require('cors')
 const PORT = 3000
 
 const DB_URL =
-  'mongodb+srv://Ainaz:SynqbL89sha4qEnJ@cluster0.d4wicuy.mongodb.net/?retryWrites=true&w=majority'
+  ''
 
 const app = express()
 
